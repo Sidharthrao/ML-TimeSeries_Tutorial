@@ -1,0 +1,34 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Time Series Analysis
+statsmodels>=0.13.0
+pmdarima>=2.0.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Deep Learning (Optional)
+tensorflow>=2.11.0
+keras>=2.11.0
+
+# Prophet (Facebook Time Series)
+prophet>=1.1.0
+
+# Utilities
+scipy>=1.10.0
+joblib>=1.2.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# Documentation
+sphinx>=5.0.0
+
